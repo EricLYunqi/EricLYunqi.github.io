@@ -38,7 +38,7 @@ A STM32 based throwing robot for HKUST Robotics Team Competition(cooperating wit
 
 ## Contact me😎😎😎
 
-E-mail: ylilo@connect.ust.hk
+E-mail: liyunqixa@gmail.com
 
 WeChat: LYunqiC1oud7
 
