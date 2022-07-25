@@ -4,6 +4,8 @@ I am LI Yunqi, Eric. A Year 2 CS student in HKUST.🤓
 
 ## As a CS Student, I ...😜
 
+Am also a student in mathematics department.
+
 Am a member in HKUST Robotics Team, smartcar subteam.
 
 Am learning C/C++ in robotics programming, Python in data analysis, image processing and hardware & mechanical design for smartcar ...
