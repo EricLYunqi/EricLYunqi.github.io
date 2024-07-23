@@ -1,5 +1,8 @@
 title: vida
-baseurl: "/vida"
+url: "http://ericlyunqi.github.io"
+baseurl: "/vida"      
+github_repo: "https://github.com/EricLYunqi/EricLYunqi.github.io.git" 
+
 
 date_format: "%Y-%m-%d"
 
