@@ -3,25 +3,34 @@ layout: default
 title: Home
 ---
 
-Vida is a simple and beautiful jekyll theme, it has only the essential functions
-so that you can concentrate on the content of your blog.
+Greetings! I am Yunqi Li, a junior undergraduate in [Hong Kong Univ. of Sci. and Tech.](https://hkust.edu.hk/), majoring [Computer Science and General Mathematics](https://cse.hkust.edu.hk/bsc/). I am boardly interested in database and data management, working with two faculties, Prof. Xiaofang Zhou and Prof. Kai Huang. I also spent a wonderful semester on exchange in [Univ. of Waterloo](https://uwaterloo.ca/).
 
 First of all, let's have a glance at the basic styles: [link](http://github.com/syaning/vida),
 **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
 
-### Headers:
+## Research
+I am doing/had experience on following topics:
+- graph query
 
-# Header 1
+Publication(s):
+- K. Huang*, **Y. Li***, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, - <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, ICDE 2024
+  
+where * indicates equal contribution.
 
-## Header 2
+## Teaching
+- COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
+- COMP1021: Introduction to Computer Science, Fall 2022
 
-### Header 3
+## Awards
+- Second Runner up, UROP Awards 2024
+- Best Mini Conference Paper Award, UROP3200 2023
+- Continuing Scholarship
+- School of Engineering Dean's List
 
-#### Header 4
+## Mathematics
+I have taken serval pure/applied math courses, including: Multivariable Calculus, Linear Algebra, Probability, Differential Equation, Mathematical Analysis, Abstract Algebra, Combinatorics, Game Theory, Number Theory, Theory of Computation.
 
-##### Header 5
 
-###### Header 6
 
 ### Lists:
 
