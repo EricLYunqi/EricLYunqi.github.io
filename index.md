@@ -8,7 +8,7 @@ Greetings! I am Yunqi Li, a junior undergraduate in [Hong Kong Univ. of Sci. and
 First of all, let's have a glance at the basic styles: [link](http://github.com/syaning/vida),
 **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
 
-## - <span class="orange">Research</span>
+## <span class="orange">Research</span>
 I am doing/had experience on following topics:
 - graph query
 
@@ -17,17 +17,17 @@ Publication(s):
   
 where underline indicates equal contribution.
 
-## - <span class="orange">Teaching</span>
+## <span class="orange">Teaching</span>
 - COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
 - COMP1021: Introduction to Computer Science, Fall 2022
 
-## - <span class="orange">Awards</span>
+## <span class="orange">Awards</span>
 - Second Runner up, UROP Awards 2024
 - Best Mini Conference Paper Award, UROP3200 2023
 - Continuing Scholarship
 - School of Engineering Dean's List
 
-## - <span class="orange">Mathematics</span>
+## <span class="orange">Mathematics</span>
 I have taken serval pure/applied math courses, including: Multivariable Calculus, Linear Algebra, Probability, Differential Equation, Mathematical Analysis, Abstract Algebra, Combinatorics, Game Theory, Number Theory, Theory of Computation.
 
 
