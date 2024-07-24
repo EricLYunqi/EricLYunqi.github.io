@@ -8,26 +8,26 @@ Greetings! I am Yunqi Li, a junior undergraduate in [Hong Kong Univ. of Sci. and
 First of all, let's have a glance at the basic styles: [link](http://github.com/syaning/vida),
 **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
 
-## Research
+## - <span class="orange">Research</span>
 I am doing/had experience on following topics:
 - graph query
 
 Publication(s):
 - <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, ICDE 2024
   
-where insertion indicates equal contribution.
+where underline indicates equal contribution.
 
-## Teaching
+## - <span class="orange">Teaching</span>
 - COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
 - COMP1021: Introduction to Computer Science, Fall 2022
 
-## Awards
+## - <span class="orange">Awards</span>
 - Second Runner up, UROP Awards 2024
 - Best Mini Conference Paper Award, UROP3200 2023
 - Continuing Scholarship
 - School of Engineering Dean's List
 
-## Mathematics
+## - <span class="orange">Mathematics</span>
 I have taken serval pure/applied math courses, including: Multivariable Calculus, Linear Algebra, Probability, Differential Equation, Mathematical Analysis, Abstract Algebra, Combinatorics, Game Theory, Number Theory, Theory of Computation.
 
 
