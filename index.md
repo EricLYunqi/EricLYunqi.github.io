@@ -13,9 +13,9 @@ I am doing/had experience on following topics:
 - graph query
 
 Publication(s):
-- K. Huang*, **Y. Li***, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, - <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, ICDE 2024
+- <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, ICDE 2024
   
-where * indicates equal contribution.
+where insertion indicates equal contribution.
 
 ## Teaching
 - COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
