@@ -29,10 +29,10 @@ where underline indicates equal contribution.
 
 ## <span class="orange">Mathematics</span>
 I have taken serval pure/applied math courses, including:
-- <span class="blue">Fall 2022</span>: Multivariable Calculus, Linear Algebra
-- <span class="blue">Spring 2022</span>: Probability, Game Theory
-- <span class="blue">Fall 2023</span>: Mathematical Analysis, Abstract Algebra, Combinatorics
-- <span class="blue">Spring 2023</span>: Differential Equation, Number Theory
+- Fall 2022: Multivariable Calculus, Linear Algebra
+- Spring 2022: Probability, Game Theory
+- Fall 2023: Mathematical Analysis, Abstract Algebra, Combinatorics
+- Spring 2023: Differential Equation, Number Theory
 
 
 ## <span class="orange">Quote</span>
