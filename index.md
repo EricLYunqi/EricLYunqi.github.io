@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 Vida is a simple and beautiful jekyll theme, it has only the essential functions
 so that you can concentrate on the content of your blog.
 
