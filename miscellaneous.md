@@ -1,7 +1,7 @@
 ---
 layout:    page
-title:     Sample
-permalink: /sample/
+title:     Miscellaneous
+permalink: /miscellaneous/
 ---
 
 Vida is a simple and beautiful jekyll theme, it has only the essential functions
