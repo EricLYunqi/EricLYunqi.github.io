@@ -5,13 +5,9 @@ title: Home
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="./images/me.jpg" alt="Description of Image" style="width: 100%; max-width: 280px; height: auto; margin-right: 20px; flex-shrink: 0;">
-    <div style="flex: 1;">
-      <p>Email: liyunqixaATgmail.com</p>
-      <p><a href="./images/wechat.jpg">WeChat</a></p> 
-      <p><a href="https://github.com/EricLYunqi">Github</a></p>
-      <p><a href="https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN">Google Scholar</a></p>
-    </div>
 </div>
+
+Email: liyunqixaATgmail.com	[WeChat](./images/wechat.jpg)	[Github](https://github.com/EricLYunqi)	[Google Scholar](https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN)
 
 ## **About**
 
