@@ -11,7 +11,7 @@ Email: <span class="blue">liyunqixa@gmail.com</span> &emsp;   Wechat: <span clas
 I am boardly interested in database and data management, working with three faculties, Prof. Xiaofang Zhou, Prof. Kai Huang and Prof. Dong Deng.
 
 ### <span class="orange">Publications</span>
-- <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, *ICDE 2024*.
+- <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, FRESH: Towards Efficient Graph Queries in an Outsourced Graph, *ICDE 2024*. [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf)
 
 - R. Zhou, M. Xu, S. Chen, J. Liu, **Y. Li**, X. Lin, Z. Chen, J. He, <span class="blue">Math for AI: On the Generalization of Learning Mathematical Problem Solving</span>, *MATH-AI Workshop in NeurIPS 2024*.
   
