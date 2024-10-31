@@ -3,34 +3,39 @@ layout: default
 title: Home
 ---
 
-Greetings! I am Yunqi Li, a senior undergraduate in [Hong Kong Univ. of Sci. and Tech.](https://hkust.edu.hk/), majoring [Computer Science and General Mathematics](https://cse.hkust.edu.hk/bsc/). I spent a wonderful semester on exchange in [Univ. of Waterloo](https://uwaterloo.ca/) in spring 2024.
+<div style="display: flex; align-items: center;">
+    <img src="./images/me.jpg" alt="Description of Image" style="width: 350px; height: auto; margin-right: 20px;">
+    <div>
+    	<p>Greetings! I am Yunqi Li, a senior undergraduate in <a href="https://hkust.edu.hk/">Hong Kong Univ. of Sci. and Tech.</a>, majoring <a href="https://cse.hkust.edu.hk/bsc/">Computer Science and General Mathematics</a>. I spent a wonderful semester on exchange in <a href="https://uwaterloo.ca/">Univ. of Waterloo</a> in spring 2024.</p>
+      <p>Email: liyunqixaATgmail.com &nbsp; <a href="./images/wechat.jpg">WeChat</a> &nbsp; <a href=https://github.com/EricLYunqi>Github</a> &nbsp; <a href=https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN>Google Scholar</a></p>
+    </div>
+</div>
 
-Email: <span class="blue">liyunqixa@gmail.com</span> &emsp;   Wechat: <span class="blue">LYunqiC1oud7</span>  &emsp; Github: [EricLYunqi](https://github.com/EricLYunqi) &emsp; [Google Scholar](https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN)
+## <font color="0000FF">Research</font>
+I am boardly interested in database and data management. I work on graph query with Prof. Kai Huang and Prof. Xiaofang Zhou as well as data integration with Prof. Dong Deng.
 
-## <font color="0000dd">Research</font>
-I am boardly interested in database and data management. I work on graph query with Prof. Kai Huang and Prof. Xiaofang Zhou and data integration with Prof. Dong Deng.
-
-### <font color="0000dd">Publications</font> 
+### <font color="0000FF">Publications</font> 
 - **FRESH: Towards Efficient Graph Queries in an Outsourced Graph** <br />Kai Huang\*, <u>Yunqi Li</u>\*, Qinging Ye, Yao Tian, Xi Zhao, Yue Cui, Haibo Hu, Xiaofang Zhou <br />ICDE 2024 [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf). 
 
 - **Math for AI: On the Generalization of Learning Mathematical Problem Solving**  <br />Ruochen Zhou, Minrui Xu, Siqi Chen, Junteng Liu, <u>Yunqi Li</u>, Xinin Lin, Zhengyu Chen, Junxian He <br />MATH-AI Workshop in NeurIPS 2024.
   
+
 \* indicates equal contribution.
 
-### <font color="0000dd">Software/System(s)</font>
+### <font color="0000FF">Software/System(s)</font>
 - **Similarity Join Entity Matching** <br />[[code]](https://github.com/rutgers-db/EntityBlockingBySimilarityJoins)
 
-## <font color="0000dd">Teaching</font>
+## <font color="0000FF">Teaching</font>
 - COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
 - COMP1021: Introduction to Computer Science, Fall 2022
 
-## <font color="0000dd">Awards</font>
+## <font color="0000FF">Awards</font>
 - Second Runner up, UROP Awards 2024
 - Best Mini Conference Paper Award, UROP 2024
 - Continuing Scholarship, HKUST
 - School of Engineering Dean's List, HKUST
 
-## <font color="0000dd">Mathematics</font>
+## <font color="0000FF">Mathematics</font>
 I have taken several pure/applied math courses:
 - Fall 2022: Multivariable Calculus, Linear Algebra
 - Spring 2022: Probability, Game Theory
@@ -38,6 +43,6 @@ I have taken several pure/applied math courses:
 - Spring 2023: Differential Equation, Number Theory
 
 
-## <font color="0000dd">Quote</font>
+## <font color="0000FF">Quote</font>
 
 > 总之岁月漫长，然而值得等待。
