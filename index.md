@@ -3,18 +3,22 @@ layout: default
 title: Home
 ---
 
-Greetings! I am Yunqi Li, a junior undergraduate in [Hong Kong Univ. of Sci. and Tech.](https://hkust.edu.hk/), majoring [Computer Science and General Mathematics](https://cse.hkust.edu.hk/bsc/). I am boardly interested in database and data management, working with two faculties, Prof. Xiaofang Zhou and Prof. Kai Huang. I also spent a wonderful semester on exchange in [Univ. of Waterloo](https://uwaterloo.ca/).
+Greetings! I am Yunqi Li, a senior undergraduate in [Hong Kong Univ. of Sci. and Tech.](https://hkust.edu.hk/), majoring [Computer Science and General Mathematics](https://cse.hkust.edu.hk/bsc/). I spent a wonderful semester on exchange in [Univ. of Waterloo](https://uwaterloo.ca/) in spring 2024.
 
-Email: <span class="blue">liyunqixa@gmail.com</span>   Wechat: <span class="blue">LYunqiC1oud7</span>   Github: [EricLYunqi](https://github.com/EricLYunqi)
+Email: <span class="blue">liyunqixa@gmail.com</span> &emsp;   Wechat: <span class="blue">LYunqiC1oud7</span>  &emsp; Github: [EricLYunqi](https://github.com/EricLYunqi) &emsp; [Google Scholar](https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN)
 
 ## <span class="orange">Research</span>
-I am doing/had experience on following topics:
-- graph query
+I am boardly interested in database and data management, working with three faculties, Prof. Xiaofang Zhou and Prof. Kai Huang and Prof. Dong Deng.
 
-Publication(s):
-- <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, ICDE 2024
+### <span class="orange">Publications</span>
+- <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, *ICDE 2024*.
+
+- R. Zhou, M. Xu, S. Chen, J, Liu, **Y, Li**, X, Lin, Z. Chen, J. He, <span class="blue">Math for AI: On the Generalization of Learning Mathematical Problem Solving<span class="blue">, *MATH-AI Workshop in NeurIPS 2024*.
   
 where underline indicates equal contribution.
+
+### <span class="orange">Software/System(s)</span>
+- Similarity Join Entity Matching. [[code]](https://github.com/rutgers-db/EntityBlockingBySimilarityJoins)
 
 ## <span class="orange">Teaching</span>
 - COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
