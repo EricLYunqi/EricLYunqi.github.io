@@ -10,6 +10,8 @@
     <style>
         body {
             display: flex; /* Use flexbox for layout */
+            flex-direction: row; /* Default to row layout */
+            margin: 0; /* Remove default margin */
         }
         main {
             flex: 1; /* Allow main content to take available space */
@@ -29,6 +31,17 @@
         }
         .sidebar a:hover {
             color: orange; /* Change color on hover */
+        }
+
+        /* Media Query for Mobile Devices */
+        @media (max-width: 768px) {
+            body {
+                flex-direction: column; /* Stack elements vertically on small screens */
+            }
+            .sidebar {
+                width: 100%; /* Full width for sidebar on mobile */
+                box-shadow: none; /* Remove shadow for mobile view */
+            }
         }
     </style>
 </head>
