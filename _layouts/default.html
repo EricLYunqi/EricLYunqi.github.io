@@ -7,15 +7,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     <title>{{ site.title }}</title>
+    <style>
+        body {
+            display: flex; /* Use flexbox for layout */
+        }
+        main {
+            flex: 1; /* Allow main content to take available space */
+            padding: 20px; /* Add some padding */
+        }
+        .sidebar {
+            width: 200px; /* Set the width of the sidebar */
+            background-color: #f4f4f4; /* Light gray background for the sidebar */
+            padding: 15px; /* Add some padding inside the sidebar */
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Optional: add a shadow */
+        }
+        .sidebar a {
+            display: block; /* Make links block elements */
+            margin: 10px 0; /* Add vertical spacing between links */
+            color: #333; /* Link color */
+            text-decoration: none; /* Remove underline */
+        }
+        .sidebar a:hover {
+            color: orange; /* Change color on hover */
+        }
+    </style>
 </head>
 <body>
+    <div class="sidebar">
+        <h2>Navigation</h2>
+        <nav class="site-nav">
+            <a href="{{ site.baseurl }}/miscellaneous/" class="{% if page.url == '/miscellaneous/' %}active{% endif %}">Miscellaneous</a>
+            <a href="{{ site.baseurl }}/sharing/" class="{% if page.url == '/sharing/' %}active{% endif %}">Sharing</a>
+        </nav>
+    </div>
     <main>
         <header class="site-header">
             <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <nav class="site-nav">
-                <!-- <a href="{{ site.baseurl }}/miscellaneous/" class="{% if page.url == '/miscellaneous/' %}active{% endif %}" style="color: orange;">Miscellaneous</a>
-                <a href="{{ site.baseurl }}/sharing/" class="{% if page.url == '/sharing/' %}active{% endif %}" style="color: orange;">Sharing</a> -->
-            </nav>
         </header>
         {{ content }}
     </main>
