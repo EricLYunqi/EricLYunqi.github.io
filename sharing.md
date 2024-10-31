@@ -17,4 +17,4 @@ I was born and grew up in [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), a hist
 </center>
 
 
-More photos are on the way
+Other photos are on the way
