@@ -12,10 +12,10 @@ title: Home
 </div>
 
 
-## <font color="0000FF">Research</font>
+## <font color=orange>Research</font>
 I am boardly interested in database and data management. I work on graph query with Prof. Kai Huang and Prof. Xiaofang Zhou as well as data integration with Prof. Dong Deng.
 
-### <font color="0000FF">Publications</font> 
+### <font color="orange">Publications</font> 
 - **FRESH: Towards Efficient Graph Queries in an Outsourced Graph** <br />Kai Huang\*, <u>Yunqi Li</u>\*, Qinging Ye, Yao Tian, Xi Zhao, Yue Cui, Haibo Hu, Xiaofang Zhou <br />ICDE 2024 [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf). 
 
 - **Math for AI: On the Generalization of Learning Mathematical Problem Solving**  <br />Ruochen Zhou, Minrui Xu, Siqi Chen, Junteng Liu, <u>Yunqi Li</u>, Xinin Lin, Zhengyu Chen, Junxian He <br />MATH-AI Workshop in NeurIPS 2024.
@@ -23,20 +23,20 @@ I am boardly interested in database and data management. I work on graph query w
 
 \* indicates equal contribution.
 
-### <font color="0000FF">Software/System(s)</font>
+### <font color="orange">Software/System(s)</font>
 - **Similarity Join Entity Matching** <br />[[code]](https://github.com/rutgers-db/EntityBlockingBySimilarityJoins)
 
-## <font color="0000FF">Teaching</font>
+## <font color="orange">Teaching</font>
 - COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
 - COMP1021: Introduction to Computer Science, Fall 2022
 
-## <font color="0000FF">Awards</font>
+## <font color="orange">Awards</font>
 - Second Runner up, UROP Awards 2024
 - Best Mini Conference Paper Award, UROP 2024
 - Continuing Scholarship, HKUST
 - School of Engineering Dean's List, HKUST
 
-## <font color="0000FF">Mathematics</font>
+## <font color="orange">Mathematics</font>
 I have taken several pure/applied math courses:
 - Fall 2022: Multivariable Calculus, Linear Algebra
 - Spring 2022: Probability, Game Theory
@@ -44,6 +44,6 @@ I have taken several pure/applied math courses:
 - Spring 2023: Differential Equation, Number Theory
 
 
-## <font color="0000FF">Quote</font>
+## <font color="orange">Quote</font>
 
 > 总之岁月漫长，然而值得等待。
