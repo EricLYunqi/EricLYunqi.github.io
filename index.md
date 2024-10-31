@@ -12,9 +12,11 @@ I am boardly interested in database and data management. I work on graph query w
 
 ### <span class="orange">Publications</span> 
 - **FRESH: Towards Efficient Graph Queries in an Outsourced Graph** [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf)
+  
   Kai Huang\*, **Yunqi Li**\*, Qinging Ye, Yao Tian, Xi Zhao, Yue Cui, Haibo Hu, Xiaofang Zhou, *ICDE 2024*. 
 
 - **Math for AI: On the Generalization of Learning Mathematical Problem Solving** 
+  
   Ruochen Zhou, Minrui Xu, Siqi Chen, Junteng Liu, **Yunqi Li**, Xinin Lin, Zhengyu Chen, Junxian He, *MATH-AI Workshop in NeurIPS 2024*.
   
 \* indicates equal contribution.
