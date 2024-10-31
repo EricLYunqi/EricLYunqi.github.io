@@ -11,9 +11,9 @@ Email: <span class="blue">liyunqixa@gmail.com</span> &emsp;   Wechat: <span clas
 I am boardly interested in database and data management. I work on graph query with Prof. Kai Huang and Prof. Xiaofang Zhou and data integration with Prof. Dong Deng.
 
 ### <span class="orange">Publications</span> 
-- **FRESH: Towards Efficient Graph Queries in an Outsourced Graph** [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf) <br />Kai Huang\*, <u>Yunqi Li</u>\*, Qinging Ye, Yao Tian, Xi Zhao, Yue Cui, Haibo Hu, Xiaofang Zhou, *ICDE 2024*. 
+- **FRESH: Towards Efficient Graph Queries in an Outsourced Graph** [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf) <br /><span class="gray">Kai Huang\*, <u>Yunqi Li</u>\*, Qinging Ye, Yao Tian, Xi Zhao, Yue Cui, Haibo Hu, Xiaofang Zhou</span>, *ICDE 2024*. 
 
-- **Math for AI: On the Generalization of Learning Mathematical Problem Solving**  <br />Ruochen Zhou, Minrui Xu, Siqi Chen, Junteng Liu, <u>Yunqi Li</u>, Xinin Lin, Zhengyu Chen, Junxian He, *MATH-AI Workshop in NeurIPS 2024*.
+- **Math for AI: On the Generalization of Learning Mathematical Problem Solving**  <br /><span class="gray">Ruochen Zhou, Minrui Xu, Siqi Chen, Junteng Liu, <u>Yunqi Li</u>, Xinin Lin, Zhengyu Chen, Junxian He</span>, *MATH-AI Workshop in NeurIPS 2024*.
   
 \* indicates equal contribution.
 
