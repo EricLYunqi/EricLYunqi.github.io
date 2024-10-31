@@ -13,7 +13,7 @@ I am boardly interested in database and data management, working with three facu
 ### <span class="orange">Publications</span>
 - <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, *ICDE 2024*.
 
-- R. Zhou, M. Xu, S. Chen, J, Liu, **Y, Li**, X, Lin, Z. Chen, J. He, <span class="blue">Math for AI: On the Generalization of Learning Mathematical Problem Solving</span>, *MATH-AI Workshop in NeurIPS 2024*.
+- R. Zhou, M. Xu, S. Chen, J. Liu, **Y, Li**, X. Lin, Z. Chen, J. He, <span class="blue">Math for AI: On the Generalization of Learning Mathematical Problem Solving</span>, *MATH-AI Workshop in NeurIPS 2024*.
   
 where underline indicates equal contribution.
 
