@@ -8,17 +8,19 @@ Greetings! I am Yunqi Li, a senior undergraduate in [Hong Kong Univ. of Sci. and
 Email: <span class="blue">liyunqixa@gmail.com</span> &emsp;   Wechat: <span class="blue">LYunqiC1oud7</span>  &emsp; Github: [EricLYunqi](https://github.com/EricLYunqi) &emsp; [Google Scholar](https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN)
 
 ## <span class="orange">Research</span>
-I am boardly interested in database and data management, working with three faculties, Prof. Xiaofang Zhou, Prof. Kai Huang and Prof. Dong Deng.
+I am boardly interested in database and data management. I work on graph query with Prof. Kai Huang and Prof. Xiaofang Zhou and data integration with Prof. Dong Deng.
 
-### <span class="orange">Publications</span>
-- <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, FRESH: Towards Efficient Graph Queries in an Outsourced Graph, *ICDE 2024*. [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf)
+### <span class="orange">Publications</span> 
+- **FRESH: Towards Efficient Graph Queries in an Outsourced Graph** [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf)
+  Kai Huang\*, **Yunqi Li**\*, Qinging Ye, Yao Tian, Xi Zhao, Yue Cui, Haibo Hu, Xiaofang Zhou, *ICDE 2024*. 
 
-- R. Zhou, M. Xu, S. Chen, J. Liu, **Y. Li**, X. Lin, Z. Chen, J. He, <span class="blue">Math for AI: On the Generalization of Learning Mathematical Problem Solving</span>, *MATH-AI Workshop in NeurIPS 2024*.
+- **Math for AI: On the Generalization of Learning Mathematical Problem Solving** 
+  Ruochen Zhou, Minrui Xu, Siqi Chen, Junteng Liu, **Yunqi Li**, Xinin Lin, Zhengyu Chen, Junxian He, *MATH-AI Workshop in NeurIPS 2024*.
   
-where underline indicates equal contribution.
+\* indicates equal contribution.
 
 ### <span class="orange">Software/System(s)</span>
-- Similarity Join Entity Matching. [[code]](https://github.com/rutgers-db/EntityBlockingBySimilarityJoins)
+- **Similarity Join Entity Matching** [[code]](https://github.com/rutgers-db/EntityBlockingBySimilarityJoins)
 
 ## <span class="orange">Teaching</span>
 - COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
@@ -26,12 +28,12 @@ where underline indicates equal contribution.
 
 ## <span class="orange">Awards</span>
 - Second Runner up, UROP Awards 2024
-- Best Mini Conference Paper Award, UROP3200 2023
-- Continuing Scholarship
-- School of Engineering Dean's List
+- Best Mini Conference Paper Award, UROP 2024
+- Continuing Scholarship, HKUST
+- School of Engineering Dean's List, HKUST
 
 ## <span class="orange">Mathematics</span>
-I have taken serval pure/applied math courses, including:
+I have taken several pure/applied math courses:
 - Fall 2022: Multivariable Calculus, Linear Algebra
 - Spring 2022: Probability, Game Theory
 - Fall 2023: Mathematical Analysis, Abstract Algebra, Combinatorics
