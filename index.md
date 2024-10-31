@@ -38,6 +38,6 @@ I have taken several pure/applied math courses:
 - Spring 2023: Differential Equation, Number Theory
 
 
-## <font color="0000dd">Quote</spfontan>
+## <font color="0000dd">Quote</font>
 
 > 总之岁月漫长，然而值得等待。
