@@ -18,7 +18,7 @@ I am boardly interested in database and data management. I work on graph query w
 \* indicates equal contribution.
 
 ### <font color="0000dd">Software/System(s)</font>
-- [Similarity Join Entity Matching](https://github.com/rutgers-db/EntityBlockingBySimilarityJoins)
+- **Similarity Join Entity Matching** <br />[[code]](https://github.com/rutgers-db/EntityBlockingBySimilarityJoins)
 
 ## <font color="0000dd">Teaching</font>
 - COMP2012: Object-Oriented Programming and Data Structures, Fall 2023
