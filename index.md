@@ -8,12 +8,12 @@ Greetings! I am Yunqi Li, a senior undergraduate in [Hong Kong Univ. of Sci. and
 Email: <span class="blue">liyunqixa@gmail.com</span> &emsp;   Wechat: <span class="blue">LYunqiC1oud7</span>  &emsp; Github: [EricLYunqi](https://github.com/EricLYunqi) &emsp; [Google Scholar](https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN)
 
 ## <span class="orange">Research</span>
-I am boardly interested in database and data management, working with three faculties, Prof. Xiaofang Zhou and Prof. Kai Huang and Prof. Dong Deng.
+I am boardly interested in database and data management, working with three faculties, Prof. Xiaofang Zhou, Prof. Kai Huang and Prof. Dong Deng.
 
 ### <span class="orange">Publications</span>
 - <ins>K. Huang</ins>, <ins>**Y. Li**</ins>, Q. Ye, Y. Tian, X. Zhao, Y. Cui, H. Hu, X. Zhou, <span class="blue">FRESH: Towards Efficient Graph Queries in an Outsourced Graph</span>, *ICDE 2024*.
 
-- R. Zhou, M. Xu, S. Chen, J, Liu, **Y, Li**, X, Lin, Z. Chen, J. He, <span class="blue">Math for AI: On the Generalization of Learning Mathematical Problem Solving<span class="blue">, *MATH-AI Workshop in NeurIPS 2024*.
+- R. Zhou, M. Xu, S. Chen, J, Liu, **Y, Li**, X, Lin, Z. Chen, J. He, <span class="blue">Math for AI: On the Generalization of Learning Mathematical Problem Solving</span>, *MATH-AI Workshop in NeurIPS 2024*.
   
 where underline indicates equal contribution.
 
