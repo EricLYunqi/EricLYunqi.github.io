@@ -10,14 +10,14 @@ Email: <span class="blue">liyunqixa@gmail.com</span> &emsp;   Wechat: <span clas
 ## <font color="0000dd">Research</font>
 I am boardly interested in database and data management. I work on graph query with Prof. Kai Huang and Prof. Xiaofang Zhou and data integration with Prof. Dong Deng.
 
-### <span class="orange">Publications</span> 
+### <font color="0000dd">Publications</font> 
 - **FRESH: Towards Efficient Graph Queries in an Outsourced Graph** <br />Kai Huang\*, <u>Yunqi Li</u>\*, Qinging Ye, Yao Tian, Xi Zhao, Yue Cui, Haibo Hu, Xiaofang Zhou <br />ICDE 2024 [[pdf]](papers/FRESH_Towards_Efficient_Graph_Queries_in_an_Outsourced_Graph.pdf). 
 
 - **Math for AI: On the Generalization of Learning Mathematical Problem Solving**  <br />Ruochen Zhou, Minrui Xu, Siqi Chen, Junteng Liu, <u>Yunqi Li</u>, Xinin Lin, Zhengyu Chen, Junxian He <br />MATH-AI Workshop in NeurIPS 2024.
   
 \* indicates equal contribution.
 
-### <span class="orange">Software/System(s)</font>
+### <font color="0000dd">Software/System(s)</font>
 - [Similarity Join Entity Matching](https://github.com/rutgers-db/EntityBlockingBySimilarityJoins)
 
 ## <font color="0000dd">Teaching</font>
