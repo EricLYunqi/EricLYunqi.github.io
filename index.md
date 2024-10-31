@@ -42,5 +42,3 @@ I have taken several pure/applied math courses:
 - Spring 2022: Probability, Game Theory
 - Fall 2023: Mathematical Analysis, Abstract Algebra, Combinatorics
 - Spring 2023: Differential Equation, Number Theory
-
-> 总之岁月漫长，然而值得等待。
