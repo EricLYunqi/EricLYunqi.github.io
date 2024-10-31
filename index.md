@@ -6,11 +6,16 @@ title: Home
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
     <img src="./images/me.jpg" alt="Description of Image" style="width: 100%; max-width: 280px; height: auto; margin-right: 20px; flex-shrink: 0;">
     <div style="flex: 1;">
-        <p>Greetings! I am Yunqi Li, a senior undergraduate in <a href="https://hkust.edu.hk/">Hong Kong Univ. of Sci. and Tech.</a>, majoring <a href="https://cse.hkust.edu.hk/bsc/">Computer Science and General Mathematics</a>. I spent a wonderful semester on exchange in <a href="https://uwaterloo.ca/">Univ. of Waterloo</a> in spring 2024.</p>
-        <p>Email: liyunqixaATgmail.com &nbsp; <a href="./images/wechat.jpg">WeChat</a> &nbsp; <a href="https://github.com/EricLYunqi">Github</a> &nbsp; <a href="https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN">Google Scholar</a></p>
+      <p>Email: liyunqixaATgmail.com</p>
+      <p><a href="./images/wechat.jpg">WeChat</a></p> 
+      <p><a href="https://github.com/EricLYunqi">Github</a></p>
+      <p><a href="https://scholar.google.com/citations?user=S9cOeVAAAAAJ&hl=zh-CN">Google Scholar</a></p>
     </div>
 </div>
 
+## **About**
+
+Greetings! I am Yunqi Li, a senior undergraduate in [Hong Kong Univ. of Sci. and Tech.](https://hkust.edu.hk/), majoring [Computer Science and General Mathematics](https://cse.hkust.edu.hk/bsc/). I spent a wonderful semester on exchange in [Univ. of Waterloo](https://uwaterloo.ca/) in spring 2024.
 
 ## **Research**
 
