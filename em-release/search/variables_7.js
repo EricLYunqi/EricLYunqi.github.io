@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['g_0',['G',['../namespacedump__tables.html#ab62ea8c61ab5da27ca92a94de06c0b42',1,'dump_tables']]],
+  ['gold_1',['gold',['../blocker__config_8cc.html#aed4eb31107febe7121aa93422c04cf9f',1,'gold:&#160;blocker_config.cc'],['../blocker__config_8h.html#aed4eb31107febe7121aa93422c04cf9f',1,'gold:&#160;blocker_config.cc'],['../blocker__util_8h.html#aed4eb31107febe7121aa93422c04cf9f',1,'gold:&#160;blocker_config.cc'],['../namespaceget__true__pos.html#a777d5961e36b1e75bd411298af7506a3',1,'get_true_pos.gold'],['../namespacevis__rf__path.html#a4cec783c84f5fa665ae101028c4fcb3c',1,'vis_rf_path.gold'],['../namespacetest__block.html#aabc46b3cd20802845b7f309916539ff8',1,'test_block.gold'],['../namespacetest__block__all.html#a29ed1da3618979613113edc38151b10c',1,'test_block_all.gold'],['../namespacetest__feature.html#a5cf978017f7dea66a11b5d8ceef4f036',1,'test_feature.gold'],['../namespacetest__match.html#a958a8d2a60bcc17bde71cf915bbcf46f',1,'test_match.gold'],['../namespacetest__sample.html#af8613d2c9f87a015b1d3a5406638a802',1,'test_sample.gold']]],
+  ['gold_5fgraph_2',['gold_graph',['../namespacevis__rf__path.html#a5c0b29fd2e2e65e96c76ecb127bfe1b1',1,'vis_rf_path.gold_graph'],['../namespacetest__block.html#a8e1fda3b496871276510ed5b8a776e73',1,'test_block.gold_graph'],['../namespacetest__block__all.html#aecfade050e6010187118efa922b4b4c3',1,'test_block_all.gold_graph'],['../namespacetest__feature.html#a8f311623739463639c18176ea8ad8309',1,'test_feature.gold_graph'],['../namespacetest__match.html#abf31855d70efbf3c9538cfbd4405647e',1,'test_match.gold_graph'],['../namespacetest__sample.html#a28f315a478c0a45a113933145f08f9c9',1,'test_sample.gold_graph']]],
+  ['golds_3',['golds',['../classsimjoin__entitymatching_1_1utils_1_1datasets_1_1Dataset.html#ae7c787525c5adaaa102b7c870aad4382',1,'simjoin_entitymatching::utils::datasets::Dataset']]],
+  ['graph_4',['graph',['../classsimjoin__entitymatching_1_1matcher_1_1random__forest_1_1RandomForest.html#ae43151276e587dbdd3e20921fd71cb9a',1,'simjoin_entitymatching.matcher.random_forest.RandomForest.graph'],['../namespacevis__rf__path.html#aa90127a21b17310135cc853c9a418b3b',1,'vis_rf_path.graph']]],
+  ['ground_5ftruth_5',['ground_truth',['../namespaceget__true__pos.html#aa76d6bd6450b29038bed41d623088cf4',1,'get_true_pos']]],
+  ['ground_5ftruth_5flabel_6',['ground_truth_label',['../namespacetest__block__all.html#aa02313af038b480cc26334fb1ba7239b',1,'test_block_all.ground_truth_label'],['../namespacetest__match.html#ad707a2251dc6fac27534b4e666bb8f03',1,'test_match.ground_truth_label']]],
+  ['group_7',['group',['../classGroupInterchangeable.html#a5212bbc4fb00268bdcd1f7bcdce2aac0',1,'GroupInterchangeable']]],
+  ['groupa_8',['groupA',['../classSetJoinParallel.html#aa27b1bc7f7656f53db688016e7b4b058',1,'SetJoinParallel']]],
+  ['groupb_9',['groupB',['../classSetJoinParallel.html#a51e131ac4302fdee6387a9688f3f10e4',1,'SetJoinParallel']]],
+  ['grouptokensdlm_10',['groupTokensDlm',['../classGroupInterchangeable.html#a13d89a43e3e804f4d484f1dc064853bb',1,'GroupInterchangeable']]],
+  ['grouptokensqgm_11',['groupTokensQgm',['../classGroupInterchangeable.html#a453b17c2f8cddc6bdf83a4c7bcd347ab',1,'GroupInterchangeable']]],
+  ['grpida_12',['grpIdA',['../classSetJoinParallel.html#a0e7dd7cdd3fd3a47d0087491b38ba621',1,'SetJoinParallel']]],
+  ['grpidb_13',['grpIdB',['../classSetJoinParallel.html#a54fa4f17859c7eb897308c556a33d73c',1,'SetJoinParallel']]]
+];

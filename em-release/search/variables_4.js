@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['d_0',['D',['../classStringJoin.html#a34c5d7c3c884bd0af5d85e70d51747ce',1,'StringJoin::D'],['../classStringJoinParallel.html#a88f7e71dee607a4aa4f9dd492c0e5ab4',1,'StringJoinParallel::D']]],
+  ['dataroot_1',['dataroot',['../classsimjoin__entitymatching_1_1utils_1_1datasets_1_1DataSettings.html#a12dee1d21068aa74ed0f8d111c892817',1,'simjoin_entitymatching::utils::datasets::DataSettings']]],
+  ['dataset_5fall_2',['dataset_all',['../classSetJoin.html#abda634de77736e9175c169f6fd11c489',1,'SetJoin']]],
+  ['datasets_3',['datasets',['../classOvlpSelfJoin.html#a0acb7f58dec174905f7c527a6b831e94',1,'OvlpSelfJoin::datasets'],['../classOvlpSelfJoinParallel.html#ab190275486c6686091655eb7b803ab6d',1,'OvlpSelfJoinParallel::datasets']]],
+  ['datasets1_4',['datasets1',['../classOvlpRSJoin.html#ac3c7e99c6c787910abf92e6bb28dd450',1,'OvlpRSJoin::datasets1'],['../classOvlpRSJoinParallel.html#a792cdb45afd648de028bafc6c815a17c',1,'OvlpRSJoinParallel::datasets1']]],
+  ['datasets2_5',['datasets2',['../classOvlpRSJoin.html#a9e1a79300d47d1e02fc9df53bc927785',1,'OvlpRSJoin::datasets2'],['../classOvlpRSJoinParallel.html#abc8ff50c9fd09108ac7673bad845fcae',1,'OvlpRSJoinParallel::datasets2']]],
+  ['datasets_5fmap_6',['datasets_map',['../blocker__config_8cc.html#a153913712a77f230589f941f41624a75',1,'datasets_map:&#160;blocker_config.cc'],['../blocker__config_8h.html#a153913712a77f230589f941f41624a75',1,'datasets_map:&#160;blocker_config.cc'],['../blocker__util_8h.html#a153913712a77f230589f941f41624a75',1,'datasets_map:&#160;blocker_config.cc']]],
+  ['delims_7',['delims',['../classFeatureUtils.html#a503a94aa96760b45732d126cca00afa4',1,'FeatureUtils']]],
+  ['density_8',['density',['../namespacetest__sample.html#a225abb47162d5a30737bda1b999cc21b',1,'test_sample']]],
+  ['det_9',['det',['../classSetJoin.html#aa80edf77a8706715c10054ba78c88763',1,'SetJoin::det'],['../classSetJoinParallel.html#af78953e6f4e4e97ed334a872838081f6',1,'SetJoinParallel::det'],['../classJacSampler.html#a3f3f7063857248474a0b9869c290ed3b',1,'JacSampler::det'],['../classOvlpSampler.html#ae0f5f996942a311c87dc5614bfa45351',1,'OvlpSampler::det']]],
+  ['dicelengthfilter_10',['diceLengthFilter',['../classFeatureIndex.html#a3285f874f2a71b4b9b25b114d07f4d9e',1,'FeatureIndex']]],
+  ['diff_5fori_5ffea_5fvec_11',['diff_ori_fea_vec',['../namespacediff__fea__vec.html#a2670fb7086ae13654550a26f4815d614',1,'diff_fea_vec']]],
+  ['diff_5fpro_5ffea_5fvec_12',['diff_pro_fea_vec',['../namespacediff__fea__vec.html#a2ee066c066fa98df048c653281ef05ea',1,'diff_fea_vec']]],
+  ['dir_5fpath_13',['dir_path',['../namespacevis__rf__path.html#aee8646d8da33c15859cc34979349fdbf',1,'vis_rf_path.dir_path'],['../namespacetest__block.html#ac9190886536671c483e1ebf8a54ec871',1,'test_block.dir_path'],['../namespacetest__block__all.html#af17d12ce6937b4eeefc189da76a74aa4',1,'test_block_all.dir_path'],['../namespacetest__feature.html#a20f771697f3698407ba3db8613a000c0',1,'test_feature.dir_path'],['../namespacetest__match.html#a7743c51a09c784d69405c5f80d58d477',1,'test_match.dir_path'],['../namespacetest__sample.html#a7b3566f8ddab1a285949bb344e24b1c5',1,'test_sample.dir_path']]],
+  ['discretecacheidx_14',['discreteCacheIdx',['../classSetJoinParallel.html#abeb77cf8d8acab6595bd17cb51eb8adb',1,'SetJoinParallel::discreteCacheIdx'],['../classFeatureIndex.html#a4d625e34baecdf27a8b96d183375e659',1,'FeatureIndex::discreteCacheIdx'],['../classGroupInterchangeable.html#a2938cbcf0fe225085d5da003b4479d3f',1,'GroupInterchangeable::discreteCacheIdx']]],
+  ['dist_15',['dist',['../classStringJoin.html#a7fd736bb22bc524e92932f224daa835e',1,'StringJoin::dist'],['../classStringJoinParallel.html#a94cbcfeca14879faa14be1307527e097',1,'StringJoinParallel::dist']]],
+  ['dtype_16',['dtype',['../namespaceamazon__google.html#aa617c0653eb95685e7ffab61ad1b3261',1,'amazon_google']]]
+];
