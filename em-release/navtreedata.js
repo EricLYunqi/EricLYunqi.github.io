@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "My Project", "index.html", [
+  [ "Entity Matching by Similarity Join", "index.html", [
     [ "binary", "md_docs_2binary.html", null ],
     [ "Sensitivity", "md_docs_2developer__notes.html", [
       [ "Blocker", "md_docs_2developer__notes.html#autotoc_md1", null ],
