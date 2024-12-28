@@ -1,7 +1,18 @@
+- id: SimjoinEM
+  title: "Entity Matching by Similarity Join"
+  venue: "GitHub"
+  description: "An end-to-end roubust and scalable entity matching system"
+  github: "https://github.com/rutgers-db"
+  published: "false"
+  authors:
+    - YunqiLi
+    - DongDeng
+
 - id: FRESH
   title: "FRESH: Towards Efficient Graph Queries in an Outsourced Graph"
   venue: "ICDE 2024"
   description: "Privacy-preserving graph query"
+  published: "true"
   authors:
     - KaiHuang
     - YunqiLi
@@ -11,3 +22,18 @@
     - YueCui
     - HaiboHu
     - XiaofangZhou
+
+- id: MATH4AI
+  title: "Math for AI: On the Generalization of Learning Mathematical Problem Solving"
+  venue: "MATH-AI Workshop in NeurIPS 2024"
+  description: "Evaluation the generalization ability of mathematically fine-tuned LLMs"  
+  published: "true"
+  authors:
+    - RuochenZhou
+    - MinruiXu
+    - SiqiChen
+    - JuntengLiu
+    - YunqiLi
+    - XininLin
+    - ZhengyuChen
+    - JunxianHe

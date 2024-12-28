@@ -30,3 +30,35 @@ XiaofangZhou:
   first_name: Xiaofang
   last_name: Zhou
   is_me: false
+RuochenZhou:
+  first_name: Ruochen
+  last_name: Zhou
+  is_me: false
+MinruiXu:
+  first_name: Minrui
+  last_name: Xu
+  is_me: false
+SiqiChen:
+  first_name: Siqi
+  last_name: Chen
+  is_me: false
+JuntengLiu:
+  first_name: Junteng
+  last_name: Liu
+  is_me: false
+XininLin:
+  first_name: Xinin
+  last_name: Lin
+  is_me: false
+ZhengyuChen:
+  first_name: Zhengyu
+  last_name: Chen
+  is_me: false
+JunxianHe:
+  first_name: Junxian
+  last_name: He
+  is_me: false
+DongDeng:
+  first_name: Dong
+  last_name: Deng
+  is_me: false
