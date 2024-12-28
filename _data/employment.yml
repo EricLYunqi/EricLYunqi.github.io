@@ -1,0 +1,23 @@
+- company: NVIDIA
+  description: Sr. Research Scientist
+  dates: "Nov 2017 - Current"
+  location: Santa Clara, CA
+
+- company: NVIDIA
+  description: >-
+    Research Intern with <a href="https://research.nvidia.com/labs/lpr/">NVIDIA Research</a>.
+  dates: "March 2017 - Aug 2017"
+  location: Santa Clara, CA
+
+- company: Chinese University of HongKong
+  description: >-
+    Visiting Schoolar at the <a href="https://mmlab.ie.cuhk.edu.hk/">MMLAB</a>.
+  dates: "Jul 2016 - Dec 2016"
+  location: HongKong
+
+- company: Baidu Inc.
+  description: >- 
+    Applied Scientist Intern on IDL.
+    Worked on face parsing and beutification Apps.
+  dates: "May 2013 - Jan 2016"
+  location: Beijing, China

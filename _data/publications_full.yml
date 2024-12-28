@@ -1,0 +1,685 @@
+- id: TUVF
+  title: "TUVF: Learning Generalizable Texture UV Radiance Fields"
+  venue: "arXiv, 2023"
+  description: "The paper introduces TUVF, a method for learning generalizable texture UV radiance fields."
+  project_page: "https://www.anjiecheng.me/TUVF"
+  github: "https://github.com/AnjieCheng/TUVF"
+  arxiv: "2305.03040"
+  image: "cheng2023tuvf.jpg"
+  image_mouseover: "cheng2023tuvf.mp4"
+  authors:
+    - anchiehc
+    - xuetingl 
+    - sifeil
+    - xiaolongw
+
+- id: AfforDiff
+  title: "Affordance diffusion: Synthesizing hand-object interactions"
+  venue: CVPR, 2023
+  description: "The paper proposes a method for interaction synthesis that addresses issues using diffusion models. They build upon the classic idea of disentangling where to interact (layout) from how to interact (content)."
+  project_page: "https://judyye.github.io/affordiffusion-www"
+  github: "https://github.com/NVlabs/affordance_diffusion"
+  arxiv: "2303.12538"
+  image: "afford_before.png"
+  image_mouseover: "afford_after.mp4"
+  authors:
+    - yufeiy
+    - xuetingl
+    - a1
+    - shalinidm
+    - stanb
+    - jiamings
+    - shubt
+    - sifeil
+
+- id: 2
+  title: "Scraping Textures from Natural Images for Synthesis and Editing"
+  venue: "ECCV, 2022"
+  project_page: "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750389.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - xuetingl
+    - sifeil
+    - xiaolongw
+    - minghsuany
+    - ayosha
+
+- id: ODISE
+  title: "Open-vocabulary panoptic segmentation with text-to-image diffusion models"
+  venue: "CVPR, 2023"
+  description: "We present ODISE: Open-vocabulary DIffusion-based panoptic SEgmentation, which unifies pre-trained text-image diffusion and discriminative models to perform open-vocabulary panoptic segmentation."
+  project_page: "https://jerryxu.net/ODISE/"
+  github: "https://github.com/NVlabs/ODISE"
+  arxiv: "2303.04803"
+  image: "odise_before.png"
+  image_mouseover: "odise_after.mp4"
+  authors:
+    - jiaruix
+    - sifeil
+    - arashv
+    - wonminb
+    - xiaolongw
+    - shalinidm
+
+- id: CoordGAN
+  title: "CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs"
+  venue: CVPR, 2022
+  description: "This work introduces Coordinate GAN (CoordGAN), a structure-texture disentangled GAN that learns a dense correspondence map for each generated image."
+  project_page: "https://jitengmu.github.io/CoordGAN/"
+  github: "https://github.com/NVlabs/CoordGAN"
+  arxiv: "2203.16521"
+  image: "coordgan_before.jpg"
+  image_mouseover: "coordgan_after.mp4"
+  authors:
+    - jitengm
+    - shalinidm
+    - zhidingy
+    - NV
+    - xiaolongw
+    - jank
+    - sifeil
+
+
+- id: GroupViT
+  title: "GroupViT: Semantic Segmentation Emerges from Text Supervision"
+  venue: CVPR, 2022
+  description: "This paper proposes a hierarchical Grouping Vision Transformer (GroupViT), which learns to group image regions into progressively larger arbitrary-shaped segments."
+  project_page: "https://jerryxu.net/GroupViT/"
+  github: "https://github.com/NVlabs/GroupViT"
+  arxiv: "2202.11094"
+  image: "groupvit.jpg"
+  image_mouseover: "groupvit.mp4"
+  authors:
+    - jiaruix
+    - shalinidm
+    - sifeil
+    - wonminb
+    - tomb
+    - jank
+    - xiaolongw
+
+- id: affordfield
+  title: "Learning continuous environment fields via implicit functions"
+  venue: ICLR, 2022
+  description: ""
+  project_page: ""
+  github: ""
+  arxiv: "2111.13997"
+  image: ""
+  image_mouseover: ""
+  authors:
+    - xuetingl
+    - shalinidm
+    - xiaolongw
+    - minghsuany
+    - jank
+    - sifeil
+
+- id: AutoPoint
+  title: "Autoregressive 3D Shape Generation via Canonical Mapping"
+  venue: "ECCV, 2022"
+  description: "The paper demonstrates a solution for 3D point cloud generation using transformers. The key idea is to decompose a point cloud into a sequence of semantically meaningful shape compositions, which are further encoded by an autoregressive model for point cloud generation."
+  project_page: "https://github.com/AnjieCheng/CanonicalVAE"
+  github: "https://github.com/AnjieCheng/CanonicalVAE"
+  arxiv: "2204.01955v1"
+  image: "cheng2022autoregressive.png"
+  authors:
+    - anchiehc
+    - xuetingl
+    - sifeil
+    - mins
+    - minghsuany
+
+- id: LIIF
+  title: "Learning Continuous Image Representation with Local Implicit Image Function"
+  venue: "CVPR, 2021"
+  description: "The paper presents a method for learning continuous image representation with local implicit image function."
+  project_page: "https://yinboc.github.io/liif/"
+  github: "https://github.com/yinboc/liif"
+  arxiv: "2012.09161v2"
+  image: "liif.jpg"
+  image_mouseover: "liif.mp4"
+  authors:
+    - yinboc
+    - sifeil
+    - xiaolongw
+
+- id: 6
+  title: "Coupled Segmentation and Edge Learning via Dynamic Graph Propagation"
+  venue: "NeurIPS, 2021"
+  project_page: ""
+  github: ""
+  arxiv: "https://proceedings.neurips.cc/paper/2021/file/26ddd45b02859e836d13d4b9fde34281-Paper.pdf"
+  image: ""
+  image_mouseover: ""
+  authors:
+    - zhidingy
+    - ruih
+    - wonminb
+    - sifeil
+    - guilinl
+    - tomb
+    - animaa
+    - jank
+
+- id: VAutoencoder
+  title: "Video Autoencoder: self-supervised disentanglement of static 3D structure and motion"
+  venue: ICCV, 2021
+  description: "This paper presents a video autoencoder for learning disentangled representations of 3D structure and camera pose from videos in a self-supervised manner."
+  project_page: "https://zlai0.github.io/VideoAutoencoder/"
+  github: "https://github.com/zlai0/VideoAutoencoder/"
+  arxiv: "2110.02951"
+  image: "vae.jpg"
+  image_mouseover: "vae.mp4"
+  authors:
+    - zihangl
+    - sifeil
+    - ayosha
+    - xiaolongw
+
+- id: PointAE
+  title: "Learning 3D Dense Correspondence via Canonical Point Autoencoder"
+  venue: "NeurIPS, 2021"
+  description: "The paper presents a method for learning 3D dense correspondence using a canonical point autoencoder."
+  project_page: "https://anjiecheng.github.io/cpae/"
+  github: "https://github.com/AnjieCheng/CanonicalPAE"
+  arxiv: "2107.04867"
+  image: "pointae.jpg"
+  image_mouseover: "pointae.mp4"
+  authors:
+    - anchiehc
+    - xuetingl
+    - mins
+    - minghsuany
+    - sifeil
+
+- id: 14
+  title: "Learning to track instances without video annotations"
+  venue: "CVPR, 2021"
+  project_page: "http://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Learning_to_Track_Instances_without_Video_Annotations_CVPR_2021_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - yangf
+    - sifeil
+    - umari
+    - shalinidm
+    - humphreyshi
+    - jank
+
+- id: 8
+  title: "Contrastive syn-to-real generalization"
+  venue: "ICLR, 2021"
+  project_page: ""
+  github: ""
+  arxiv: "2104.02290"
+  image: ""
+  image_mouseover: ""
+  authors:
+    - wuyangc
+    - zhidingy
+    - shalinidm
+    - sifeil
+    - josma
+    - altasw
+    - animaa
+
+- id: 9
+  title: "Self-supervised object detection via generative image synthesis"
+  venue: "CVPR, 2021"
+  project_page: "https://openaccess.thecvf.com/content/ICCV2021/papers/Mustikovela_Self-Supervised_Object_Detection_via_Generative_Image_Synthesis_ICCV_2021_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - skm
+    - shalinidm
+    - aayushp
+    - umari
+    - sifeil
+    - thunp
+    - carstenr
+    - jank
+
+- id: 10
+  title: "Video matting via consistency-regularized graph neural networks"
+  venue: "CVPR, 2021"
+  project_page: "http://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Video_Matting_via_Consistency-Regularized_Graph_Neural_Networks_ICCV_2021_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - ttw
+    - sifeil
+    - yapengt
+    - kail
+    - minghsuany
+
+- id: 12
+  title: "Synthesizing long-term 3d human motion and interaction in 3d scenes"
+  venue: "CVPR, 2021"
+  project_page: "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Synthesizing_Long-Term_3D_Human_Motion_and_Interaction_in_3D_Scenes_CVPR_2021_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - jiashunw
+    - huazhex
+    - jingweix
+    - sifeil
+    - xiaolongw
+
+- id: UVC
+  title: "Joint-task self-supervised learning for temporal correspondence"
+  venue: "NeurIPS, 2019"
+  description: "This paper proposes to learn reliable dense correspondence from videos in a self-supervised manner."
+  project_page: "https://sites.google.com/view/uvc2019"
+  github: "https://github.com/Liusifei/UVC"
+  arxiv: "1909.11895"
+  image: "uvc.gif"
+  authors:
+    - xuetingl
+    - sifeil
+    - shalinidm
+    - xiaolongw
+    - jank
+    - minghsuany
+
+- id: 15
+  title: "Self-supervised single-view 3D reconstruction via semantic consistency"
+  venue: "ECCV, 2021"
+  project_page: "https://github.com/NVlabs/UMR"
+  github: ""
+  arxiv: "2003.06473"
+  image: ""
+  image_mouseover: ""
+  authors:
+    - xuetingl
+    - sifeil
+    - kihwank
+    - shalinidm
+    - varunj
+    - minghsuany
+    - jank
+
+- id: 16
+  title: "Hierarchical contrastive motion learning for video action recognition"
+  venue: "BMVC, 2021"
+  project_page: "https://arxiv.org/pdf/2007.10321"
+  github: ""
+  arxiv: "2007.10321"
+  image: ""
+  image_mouseover: ""
+  authors:
+    - xitongy
+    - xiaodongy
+    - sifeil
+    - deqings
+    - larryd
+    - jank
+
+- id: 17
+  title: "Regularizing meta-learning via gradient dropout"
+  venue: "ACCV, 2020"
+  project_page: "https://openaccess.thecvf.com/content/ACCV2020/papers/Tseng_Regularizing_Meta-Learning_via_Gradient_Dropout_ACCV_2020_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - hyt
+    - yiwenc
+    - yihsuant
+    - sifeil
+    - yyl
+    - minghsuany
+
+- id: 18
+  title: "Self-supervised viewpoint learning from image collections"
+  venue: "CVPR, 2020"
+  project_page: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Mustikovela_Self-Supervised_Viewpoint_Learning_From_Image_Collections_CVPR_2020_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - skm
+    - varunj
+    - shalinidm
+    - sifeil
+    - umari
+    - carstenr
+    - jank
+
+- id: 19
+  title: "Online Adaptation for Consistent Mesh Reconstruction in the Wild"
+  venue: "NeurIPS, 2020"
+  project_page: "https://arxiv.org/pdf/2003.06473.pdf"
+  github: ""
+  arxiv: "2003.06473"
+  image: ""
+  image_mouseover: ""
+  authors:
+    - xuetingl
+    - sifeil
+    - shalinidm
+    - kihwank
+    - xiaolongw
+    - minghsuany
+    - jank
+
+
+- id: 21
+  title: "Learning Propagation for Arbitrarily-structured Data"
+  venue: "ICCV, 2019"
+  project_page: "https://arxiv.org/pdf/1909.11237.pdf"
+  github: ""
+  arxiv: "1909.11237"
+  image: ""
+  image_mouseover: ""
+  authors:
+    - sifeil
+    - xuetingl
+    - varunj
+    - shalinidm
+    - jank
+
+- id: 23
+  title: "Learning Linear Transformations for Fast Image and Video Style Transfer"
+  venue: "CVPR, 2019"
+  project_page: "https://sites.google.com/view/linear-style-transfer-cvpr19/"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - xuetingl
+    - sifeil
+    - jank
+    - minghsuany
+
+- id: 24
+  title: "Few-Shot Viewpoint Estimation"
+  venue: "BMVC, 2019"
+  project_page: "https://arxiv.org/pdf/1905.04957.pdf"
+  github: ""
+  arxiv: "1905.04957"
+  image: ""
+  image_mouseover: ""
+  authors:
+    - hyt
+    - shalinidm
+    - jonathan-tremblay
+    - sifeil
+    - stanb
+    - minghsuany
+    - jank
+
+- id: 25
+  title: "Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments"
+  venue: "CVPR, 2019"
+  project_page: ""
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - xuetingl
+    - sifeil
+    - kihwank
+    - xiaolongw
+    - minghsuany
+    - jank
+
+- id: 26
+  title: "SCOPS: Self-Supervised Co-Part Segmentation"
+  venue: "CVPR, 2019"
+  project_page: ""
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - weich
+    - varunj
+    - sifeil
+    - pavlom
+    - minghsuany
+    - jank
+
+- id: 27
+  title: "Switchable temporal propagation network"
+  venue: "ECCV, 2018"
+  project_page: "http://openaccess.thecvf.com/content_ECCV_2018/papers/Sifei_Liu_Switchable_Temporal_Propagation_ECCV_2018_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - sifeil
+    - guangyz
+    - shalinidm
+    - jinweig
+    - varunj
+    - minghsuany
+    - jank
+
+- id: 28
+  title: "Rendering Portraitures from Monocular Camera and Beyond"
+  venue: "ECCV, 2018"
+  project_page: "http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiangyu_Xu_Rendering_Portraitures_from_ECCV_2018_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - xiangyux
+    - deqings
+    - sifeil
+    - wenqir
+    - yujinz
+    - minghsuany
+    - jians
+
+- id: 29
+  title: "Context-Aware Synthesis and Placement of Object Instances"
+  venue: "NeurIPS, 2018"
+  project_page: "https://papers.nips.cc/paper/8240-context-aware-synthesis-and-placement-of-object-instances.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - donghoonl
+    - sifeil
+    - jinweig
+    - mingyul
+    - minghsuany
+    - jank
+
+- id: 30
+  title: "Learning Video-Story Composition via Recurrent Neural Network"
+  venue: "WACV, 2018"
+  project_page: "https://arxiv.org/pdf/1708.02191.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - guangyz
+    - yihsuant
+    - sifeil
+    - zhixuns
+    - minghsuany
+
+- id: 31
+  title: "Learning Dual Convolutional Neural Networks for Low-Level Vision"
+  venue: "CVPR, 2018"
+  project_page: "http://openaccess.thecvf.com/content_cvpr_2018/papers/Pan_Learning_Dual_Convolutional_CVPR_2018_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - jinshanp
+    - sifeil
+    - deqings
+    - jiaweiz
+    - yanl
+    - jimmyr
+    - zechaol
+    - jinhuit
+    - huchuanl
+    - yuwingt
+    - minghsuany
+
+- id: 32
+  title: "Learning Affinity via Spatial Propagation Networks"
+  venue: "NeurIPS, 2017"
+  project_page: "https://papers.nips.cc/paper/6750-learning-affinity-via-spatial-propagation-networks.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - sifeil
+    - shalinidm
+    - jinweig
+    - guangyz
+    - minghsuany
+    - jank
+
+- id: 33
+  title: "Face Parsing via Recurrent Propagation"
+  venue: "BMVC, 2017"
+  project_page: "https://arxiv.org/pdf/1708.01936.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - sifeil
+    - dongy
+    - zhenl
+    - stanzl
+
+- id: 34
+  title: "Unsupervised Domain Adaption for Face Recognition in Unlabeled Videos"
+  venue: "ICCV, 2017"
+  project_page: "https://arxiv.org/abs/1704.05838.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - kihyuksml
+    - sifeil
+    - guangyz
+    - xiangy
+    - minghsuany
+    - mmc
+
+- id: 35
+  title: "Learning to Segment Instances in Videos with Spatial Propagation Network"
+  venue: "CVPR workshop, 2017"
+  project_page: "https://openaccess.thecvf.com/content_CVPR_2017_workshops/w12/papers/Cheng_Learning_to_Segment_CVPR_2017_paper.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - jingchunc
+    - sifeil
+    - shalinidm
+    - jinweig
+    - jank
+    - shengjinw
+    - minghsuany
+
+- id: 36
+  title: "Generative Face Completion"
+  venue: "CVPR, 2017"
+  project_page: "https://arxiv.org/abs/1704.05838.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - yijunli
+    - sifeil
+    - jimy
+    - minghsuany
+
+- id: 37
+  title: "Learning Recursive Filters for Low-Level Vision via a Hybrid Neural Network"
+  venue: "ECCV, 2016"
+  project_page: "http://faculty.ucmerced.edu/mhyang/papers/eccv16_rnn_filter.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - sifeil
+    - jinshanp
+    - minghsuany
+
+- id: 38
+  title: "Deep Cascaded Bi-Network for Face Hallucination"
+  venue: "ECCV, 2016"
+  project_page: "http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2016_hallucination.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - shizhanz
+    - sifeil
+    - ccloy
+
+- id: 40
+  title: "Multi-Objective Convolutional Learning for Face Labeling"
+  venue: "CVPR, 2015"
+  project_page: "http://faculty.ucmerced.edu/mhyang/papers/cvpr15_face_labeling.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - sifeil
+    - jimy
+    - changh
+    - minghsuany
+
+- id: 41
+  title: "Compressed Face Hallucination"
+  venue: "ICIP, 2014"
+  project_page: "http://faculty.ucmerced.edu/mhyang/papers/icip14_cfh.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - sifeil
+    - minghsuany
+
+- id: 42
+  title: "Structured Face Hallucination"
+  venue: "CVPR, 2013"
+  project_page: "https://eng.ucmerced.edu/people/cyang35/CVPR13/cvpr13_hallucination.pdf"
+  github: ""
+  arxiv: ""
+  image: ""
+  image_mouseover: ""
+  authors:
+    - cyy
+    - sifeil
+    - minghsuany
+

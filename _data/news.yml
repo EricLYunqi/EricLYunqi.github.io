@@ -1,0 +1,9 @@
+- date: May 2023
+  description: We've released the
+    [code](https://github.com/NVlabs/affordance_diffusion) for [Affordance Diffusion](https://judyye.github.io/affordiffusion-www).
+
+- date: April 2023
+  description: We will host the Learning with Noisy and Unlabeled Data for Large Models beyond Categorization Tutorial at ICCV 2023. See you in Paris. 
+
+- date: Mar 2023
+  description: Four papers accepted at CVPR on representation learning for (i) Affordance generation, (ii) Open-vocabulary discriminative network (Highlight top 2.5% paper), (iii) zero-shot pose transfer, and (iv) self-supervised 3D reconstruction.
