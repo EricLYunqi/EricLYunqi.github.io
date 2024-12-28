@@ -28,10 +28,8 @@ description: >-
   empty
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericlyunqi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: SifeiL
 github_username: EricLYunqi
-# google_scholar: j4pcHV4AAAAJ
-# nv_site: https://research.nvidia.com/person/sifei-liu
+google_scholar: S9cOeVAAAAAJ&hl=zh-CN
 
 # Build settings
 theme: minima
