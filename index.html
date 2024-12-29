@@ -48,7 +48,7 @@ layout: null
 
         <div class="column">
           <h1 class="title">
-            <b>Hello, I'm {{ site.name }}</b>
+            <b>{{ site.name }}</b>
           </h1>
           <div class="content has-text-justified">
             {{ site.description | markdownify }}
@@ -184,7 +184,7 @@ layout: null
         <ul>
           {% for awards in site.data.awards %}
           <li>
-            <b>{{ awards.title }}</b>: {{ awards.venue | markdownify | remove: '<p>' | remove: '</p>' }}
+            <b>{{ awards.title }}</b> {{ awards.venue | markdownify | remove: '<p>' | remove: '</p>' }}
           </li>
           {% endfor %}
         </ul>
@@ -195,7 +195,7 @@ layout: null
         <ul>
           {% for teaching in site.data.teaching %}
           <li>
-            <b>{{ teaching.course }}</b>: {{ teaching.date | markdownify | remove: '<p>' | remove: '</p>' }}
+            <b>{{ teaching.course }}</b> {{ teaching.date | markdownify | remove: '<p>' | remove: '</p>' }} {{ teaching.venue | markdownify | remove: '<p>' | remove: '</p>' }}
           </li>
           {% endfor %}
         </ul>
