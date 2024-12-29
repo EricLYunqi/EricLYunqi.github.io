@@ -1,7 +1,7 @@
 - id: SimjoinEM
   title: "Entity Matching by Similarity Join"
   venue: "GitHub"
-  description: "An end-to-end roubust and scalable entity matching system"
+  description: "An roubust and scalable end-to-end entity matching system"
   github: "rutgers-db/SimilarityJoinBlocking"
   authors:
     - YunqiLi
