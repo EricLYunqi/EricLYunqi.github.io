@@ -2,8 +2,7 @@
   title: "Entity Matching by Similarity Join"
   venue: "GitHub"
   description: "An end-to-end roubust and scalable entity matching system"
-  github: "https://github.com/rutgers-db/SimilarityJoinBlocking"
-  published: "false"
+  github: "rutgers-db/SimilarityJoinBlocking"
   authors:
     - YunqiLi
     - DongDeng
