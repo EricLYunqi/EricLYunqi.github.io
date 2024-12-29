@@ -13,8 +13,8 @@
   description: "Privacy-preserving graph query"
   published: "true"
   authors:
-    - KaiHuang
-    - YunqiLi
+    - KaiHuang*
+    - YunqiLi*
     - QingqingYe
     - YaoTian
     - XiZhao
@@ -25,7 +25,7 @@
 - id: MATH4AI
   title: "Math for AI: On the Generalization of Learning Mathematical Problem Solving"
   venue: "MATH-AI Workshop in NeurIPS 2024"
-  description: "Evaluation the generalization ability of mathematically fine-tuned LLMs"  
+  description: "Evaluate the generalization ability of mathematically fine-tuned LLMs"  
   published: "true"
   authors:
     - RuochenZhou
