@@ -25,6 +25,7 @@ email: liyunqixa@gmail.com
 description: >-
   I am Yunqi Li, a senior undergraduate in [Hong Kong Univ. of Sci. and Tech.](https://hkust.edu.hk/), majoring [Computer Science and General Mathematics](https://cse.hkust.edu.hk/bsc/). I spent a wonderful semester on exchange in [Univ. of Waterloo](https://uwaterloo.ca/) in spring 2024.
 
+
   My current research focuses on the algorithmic perspective of scalable data management. I work with Prof. Dong Deng on data integration, and with Prof. Xiaofang Zhou and Kai Huang on graph query.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericlyunqi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
