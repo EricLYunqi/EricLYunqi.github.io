@@ -147,9 +147,8 @@ layout: null
                 {% if forloop.last == false %},{%
                 endif %}
                 {% else %}
-                <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name
-                  }}
-                  {% if author.first_name == "Yunqi" and author.last_name == "Li" or author.first_name == "Kai" and author.last_name == "Huang" %}
+                <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name}}
+                  {% if publication.id == "FRESH" and (author.first_name == "Kai" and author.last_name == "Huang") %}
                   *
                   {% endif %}
                 </a>{% if forloop.last == false %},{% endif %}
