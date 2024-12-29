@@ -140,7 +140,11 @@ layout: null
               {% assign author = site.data.authors[author_id] %}
               <span class="author-block {% if author.is_me %}author-me{% endif %}">
                 {% if author.is_me %}
-                {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{%
+                {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}
+                {% if publication.id == "FRESH" %}
+                *
+                {% endif %}
+                {% if forloop.last == false %},{%
                 endif %}
                 {% else %}
                 <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name

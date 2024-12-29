@@ -13,8 +13,8 @@
   description: "Privacy-preserving graph query"
   published: "true"
   authors:
-    - KaiHuang*
-    - YunqiLi*
+    - KaiHuang
+    - YunqiLi
     - QingqingYe
     - YaoTian
     - XiZhao
