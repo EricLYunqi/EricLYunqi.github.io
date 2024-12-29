@@ -1,7 +1,7 @@
-- course: COMP2012: Object-Oriented Programming and Data Structures
-  date: Fall 2023
-  venue: HKUST
+- course: "COMP2012: Object-Oriented Programming and Data Structures"
+  date: "Fall 2023"
+  venue: "HKUST"
 
-- course: COMP1021: Introduction to Computer Science
-  date: Fall 2022
-  venue: HKUST
+- course: "COMP1021: Introduction to Computer Science"
+  date: "Fall 2022"
+  venue: "HKUST"
