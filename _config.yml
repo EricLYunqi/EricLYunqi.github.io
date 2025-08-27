@@ -23,11 +23,11 @@ name: Yunqi Li 李昀奇
 # position: Sr. Research Scientist 
 email: liyunqixa@gmail.com
 description: >-
-  I am Yunqi Li, a senior undergraduate in [Hong Kong Univ. of Sci. and Tech.](https://hkust.edu.hk/), majoring [Computer Science and General Mathematics](https://cse.hkust.edu.hk/bsc/). I spent a wonderful semester on exchange in [Univ. of Waterloo](https://uwaterloo.ca/) in spring 2024.
+  Hi! I am Yunqi Li, a CS PhD student in my rookie season at the [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), where I am fortunate to work with Prof. Yongjoo Park. Before that, I studied Mathematics and Computer Science at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/)
+  and spent a semester on exchange at the [University of Waterloo](https://uwaterloo.ca/).
 
 
-  My current research focuses on the algorithmic perspective of scalable data management. I work with Prof. Dong Deng on data integration, and with Prof. Xiaofang Zhou and Kai Huang on graph query.
-baseurl: "" # the subpath of your site, e.g. /blog
+  My research interests lie in multi-modal data management from a systems perspective. Before starting my PhD, I worked with Prof. Dong Deng on data integration, and with Prof. Xiaofang Zhou and Prof. Kai Huang on graph queries. Later, I interned at the [OceanBase Lab, Ant Group](https://en.oceanbase.com/), focusing on transaction processing in distributed databases.
 url: "https://ericlyunqi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: EricLYunqi
 google_scholar: S9cOeVAAAAAJ&hl=zh-CN
