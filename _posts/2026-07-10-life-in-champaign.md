@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "Settling into Champaign"
+title: "初到香槟"
 tags: [life]
-description: "First impressions after moving to Champaign-Urbana for my PhD."
+description: "搬到香槟-厄巴纳后的一些生活片段与感受。"
 ---
 
-A few months into my PhD at UIUC now, and Champaign-Urbana has slowly started to feel less like a temporary stop and more like home.
+来 UIUC 已经有将近一年了，初到香槟-厄巴纳（Champaign-Urbana）这座小城看哪里都觉得新奇，刚从香港搬来后觉得终于没有那么挤了，听别人说这里冬天很冷，但想着之前在加拿大交换时已经见识过了“北国风光”，但放寒假时还是被这里的天气狠狠地上了一课。
 
-Some early impressions:
+学校真的很大，从一头走到另一头常常要花上二十多分钟，这和我之前习惯的校园完全不是一个量级。中西部大平原上的夏天，比我预想的更闷热潮湿，好在傍晚的晚霞常常美得让人忘记白天的燥热。
 
-- The campus is enormous compared to what I was used to — it takes real effort to walk from one end to the other.
-- Prairie summers are hotter and more humid than I expected, but the sunsets over the fields more than make up for it.
-- The local coffee shops near campus have become my unofficial second office for reading papers.
+![学校旁边的邮局]({{ '/assets/IMG_4808.JPG' | relative_url }})
 
-I'm still figuring out the rhythm of a PhD schedule — long stretches of focused reading punctuated by the occasional all-nighter before a deadline. I imagine this blog will end up being a decent record of that rhythm over the next few years.
-
-> This is a placeholder post generated while setting up the blog. Feel free to edit or delete it.
+![冬日的暴风雪]({{ '/assets/IMG_4540.jpeg' | relative_url }})

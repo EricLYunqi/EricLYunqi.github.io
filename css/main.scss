@@ -350,18 +350,7 @@ a {
   padding: 3rem 0 4rem;
 
   .about-header {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
     margin-bottom: 1rem;
-  }
-
-  .about-avatar {
-    width: 96px;
-    height: 96px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 1px solid var(--border);
   }
 
   .about-header h1 {
@@ -372,11 +361,5 @@ a {
 @media (max-width: 600px) {
   .site-nav .nav-links {
     gap: 1rem;
-  }
-
-  .about-page .about-header {
-    flex-direction: column;
-    align-items: flex-start;
-    text-align: left;
   }
 }
