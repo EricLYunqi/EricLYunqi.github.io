@@ -1,0 +1,10 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-icons">
+      <a href="mailto:{{ site.email }}" aria-label="Email"><i class="fas fa-envelope"></i></a>
+      <a href="https://github.com/{{ site.github_username }}" aria-label="GitHub"><i class="fab fa-github"></i></a>
+      <a href="{{ '/feed.xml' | relative_url }}" aria-label="RSS"><i class="fas fa-rss"></i></a>
+    </div>
+    <div class="footer-copy">&copy; {{ site.time | date: '%Y' }} {{ site.name }}</div>
+  </div>
+</footer>

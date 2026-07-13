@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="container about-page">
+  <div class="about-header">
+    <img class="about-avatar" src="{{ '/assets/profile3.png' | relative_url }}" alt="{{ site.name }}">
+    <div>
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>

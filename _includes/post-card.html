@@ -1,0 +1,12 @@
+<article class="post-card">
+  <h2 class="post-card-title"><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h2>
+  <div class="post-card-meta">
+    <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%b %-d, %Y" }}</time>
+    {% for tag in include.post.tags %}{% include tag-pill.html tag=tag %}{% endfor %}
+  </div>
+  {% if include.post.description %}
+  <p class="post-card-excerpt">{{ include.post.description }}</p>
+  {% else %}
+  <p class="post-card-excerpt">{{ include.post.excerpt | strip_html | truncatewords: 30 }}</p>
+  {% endif %}
+</article>

@@ -1,0 +1,3 @@
+{% assign tag_len = include.tag | size %}
+{% assign is_even = tag_len | modulo: 2 %}
+<a href="{{ '/tags/' | relative_url }}#{{ include.tag | slugify }}" class="tag-pill {% if is_even == 0 %}tag-blue{% else %}tag-green{% endif %}">{{ include.tag }}</a>

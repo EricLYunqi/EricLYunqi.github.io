@@ -1,0 +1,25 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+<div class="container tags-page">
+  <h1>Tags</h1>
+
+  {% assign tag_names = site.tags | sort %}
+  {% for tag in tag_names %}
+  {% assign tag_name = tag[0] %}
+  {% assign tag_posts = tag[1] %}
+  <div class="tag-group" id="{{ tag_name | slugify }}">
+    <h2 class="tag-group-title">{% include tag-pill.html tag=tag_name %}</h2>
+    <ul>
+      {% for post in tag_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</div>
