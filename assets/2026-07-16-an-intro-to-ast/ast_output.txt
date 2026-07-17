@@ -1,0 +1,159 @@
+Module(
+  body=[
+    Import(
+      names=[
+        alias(name='math')]),
+    ImportFrom(
+      module='pathlib',
+      names=[
+        alias(name='Path')],
+      level=0),
+    Assign(
+      targets=[
+        Name(id='PI', ctx=Store())],
+      value=Constant(value=3.14)),
+    ClassDef(
+      name='Calculator',
+      body=[
+        FunctionDef(
+          name='square',
+          args=arguments(
+            args=[
+              arg(arg='self'),
+              arg(
+                arg='x',
+                annotation=Name(id='float', ctx=Load()))]),
+          body=[
+            Return(
+              value=BinOp(
+                left=Name(id='x', ctx=Load()),
+                op=Mult(),
+                right=Name(id='x', ctx=Load())))],
+          returns=Name(id='float', ctx=Load()))]),
+    FunctionDef(
+      name='process',
+      args=arguments(
+        args=[
+          arg(
+            arg='numbers',
+            annotation=Subscript(
+              value=Name(id='list', ctx=Load()),
+              slice=Name(id='int', ctx=Load()),
+              ctx=Load()))]),
+      body=[
+        Assign(
+          targets=[
+            Name(id='calculator', ctx=Store())],
+          value=Call(
+            func=Name(id='Calculator', ctx=Load()))),
+        Assign(
+          targets=[
+            Name(id='results', ctx=Store())],
+          value=List(ctx=Load())),
+        For(
+          target=Name(id='number', ctx=Store()),
+          iter=Name(id='numbers', ctx=Load()),
+          body=[
+            If(
+              test=Compare(
+                left=Name(id='number', ctx=Load()),
+                ops=[
+                  GtE()],
+                comparators=[
+                  Constant(value=0)]),
+              body=[
+                Expr(
+                  value=Call(
+                    func=Attribute(
+                      value=Name(id='results', ctx=Load()),
+                      attr='append',
+                      ctx=Load()),
+                    args=[
+                      Call(
+                        func=Attribute(
+                          value=Name(id='calculator', ctx=Load()),
+                          attr='square',
+                          ctx=Load()),
+                        args=[
+                          Name(id='number', ctx=Load())])]))],
+              orelse=[
+                Expr(
+                  value=Call(
+                    func=Attribute(
+                      value=Name(id='results', ctx=Load()),
+                      attr='append',
+                      ctx=Load()),
+                    args=[
+                      Call(
+                        func=Attribute(
+                          value=Name(id='math', ctx=Load()),
+                          attr='sqrt',
+                          ctx=Load()),
+                        args=[
+                          Call(
+                            func=Name(id='abs', ctx=Load()),
+                            args=[
+                              Name(id='number', ctx=Load())])])]))])]),
+        Try(
+          body=[
+            Expr(
+              value=Call(
+                func=Attribute(
+                  value=Call(
+                    func=Name(id='Path', ctx=Load()),
+                    args=[
+                      Constant(value='result.txt')]),
+                  attr='write_text',
+                  ctx=Load()),
+                args=[
+                  Call(
+                    func=Name(id='str', ctx=Load()),
+                    args=[
+                      Name(id='results', ctx=Load())])]))],
+          handlers=[
+            ExceptHandler(
+              type=Name(id='OSError', ctx=Load()),
+              name='error',
+              body=[
+                Expr(
+                  value=Call(
+                    func=Name(id='print', ctx=Load()),
+                    args=[
+                      Name(id='error', ctx=Load())]))])]),
+        Return(
+          value=Name(id='results', ctx=Load()))],
+      returns=Subscript(
+        value=Name(id='list', ctx=Load()),
+        slice=Name(id='float', ctx=Load()),
+        ctx=Load())),
+    If(
+      test=Compare(
+        left=Name(id='__name__', ctx=Load()),
+        ops=[
+          Eq()],
+        comparators=[
+          Constant(value='__main__')]),
+      body=[
+        Assign(
+          targets=[
+            Name(id='values', ctx=Store())],
+          value=List(
+            elts=[
+              Constant(value=1),
+              UnaryOp(
+                op=USub(),
+                operand=Constant(value=4)),
+              Constant(value=3)],
+            ctx=Load())),
+        Assign(
+          targets=[
+            Name(id='output', ctx=Store())],
+          value=Call(
+            func=Name(id='process', ctx=Load()),
+            args=[
+              Name(id='values', ctx=Load())])),
+        Expr(
+          value=Call(
+            func=Name(id='print', ctx=Load()),
+            args=[
+              Name(id='output', ctx=Load())]))])])
