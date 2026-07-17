@@ -16,6 +16,7 @@
   --tag-blue-text: #3A4A6B;
   --max-width: 1400px;
   --prose-width: 42rem;
+  --post-width: 56rem;
 }
 
 * {
@@ -215,7 +216,7 @@ a {
 
 /* Post page */
 .post-header {
-  max-width: var(--prose-width);
+  max-width: var(--post-width);
   margin: 0 auto;
   padding: 3rem 0 1.5rem;
 
@@ -240,6 +241,10 @@ a {
   padding-bottom: 4rem;
   font-size: 1.05rem;
   line-height: 1.8;
+
+  .post-page & {
+    max-width: var(--post-width);
+  }
 
   h1, h2, h3, h4 {
     font-weight: 700;
@@ -301,11 +306,225 @@ a {
   }
 }
 
+// Code syntax highlighting (Rouge, "github" theme)
+.prose .highlight {
+  background-color: #f8f8f8;
+}
+.prose .highlight table td { padding: 5px; }
+.prose .highlight table pre { margin: 0; }
+.prose .highlight .cm {
+  color: #999988;
+  font-style: italic;
+}
+.prose .highlight .cp {
+  color: #999999;
+  font-weight: bold;
+}
+.prose .highlight .c1 {
+  color: #999988;
+  font-style: italic;
+}
+.prose .highlight .cs {
+  color: #999999;
+  font-weight: bold;
+  font-style: italic;
+}
+.prose .highlight .c, .prose .highlight .ch, .prose .highlight .cd, .prose .highlight .cpf {
+  color: #999988;
+  font-style: italic;
+}
+.prose .highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+}
+.prose .highlight .gd {
+  color: #000000;
+  background-color: #ffdddd;
+}
+.prose .highlight .ge {
+  color: #000000;
+  font-style: italic;
+}
+.prose .highlight .gr {
+  color: #aa0000;
+}
+.prose .highlight .gh {
+  color: #999999;
+}
+.prose .highlight .gi {
+  color: #000000;
+  background-color: #ddffdd;
+}
+.prose .highlight .go {
+  color: #888888;
+}
+.prose .highlight .gp {
+  color: #555555;
+}
+.prose .highlight .gs {
+  font-weight: bold;
+}
+.prose .highlight .gu {
+  color: #aaaaaa;
+}
+.prose .highlight .gt {
+  color: #aa0000;
+}
+.prose .highlight .kc {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .kd {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .kn {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .kp {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .kr {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .kt {
+  color: #445588;
+  font-weight: bold;
+}
+.prose .highlight .k, .prose .highlight .kv {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .mf {
+  color: #009999;
+}
+.prose .highlight .mh {
+  color: #009999;
+}
+.prose .highlight .il {
+  color: #009999;
+}
+.prose .highlight .mi {
+  color: #009999;
+}
+.prose .highlight .mo {
+  color: #009999;
+}
+.prose .highlight .m, .prose .highlight .mb, .prose .highlight .mx {
+  color: #009999;
+}
+.prose .highlight .sa {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .sb {
+  color: #d14;
+}
+.prose .highlight .sc {
+  color: #d14;
+}
+.prose .highlight .sd {
+  color: #d14;
+}
+.prose .highlight .s2 {
+  color: #d14;
+}
+.prose .highlight .se {
+  color: #d14;
+}
+.prose .highlight .sh {
+  color: #d14;
+}
+.prose .highlight .si {
+  color: #d14;
+}
+.prose .highlight .sx {
+  color: #d14;
+}
+.prose .highlight .sr {
+  color: #009926;
+}
+.prose .highlight .s1 {
+  color: #d14;
+}
+.prose .highlight .ss {
+  color: #990073;
+}
+.prose .highlight .s, .prose .highlight .dl {
+  color: #d14;
+}
+.prose .highlight .na {
+  color: #008080;
+}
+.prose .highlight .bp {
+  color: #999999;
+}
+.prose .highlight .nb {
+  color: #0086B3;
+}
+.prose .highlight .nc {
+  color: #445588;
+  font-weight: bold;
+}
+.prose .highlight .no {
+  color: #008080;
+}
+.prose .highlight .nd {
+  color: #3c5d5d;
+  font-weight: bold;
+}
+.prose .highlight .ni {
+  color: #800080;
+}
+.prose .highlight .ne {
+  color: #990000;
+  font-weight: bold;
+}
+.prose .highlight .nf, .prose .highlight .fm {
+  color: #990000;
+  font-weight: bold;
+}
+.prose .highlight .nl {
+  color: #990000;
+  font-weight: bold;
+}
+.prose .highlight .nn {
+  color: #555555;
+}
+.prose .highlight .nt {
+  color: #000080;
+}
+.prose .highlight .vc {
+  color: #008080;
+}
+.prose .highlight .vg {
+  color: #008080;
+}
+.prose .highlight .vi {
+  color: #008080;
+}
+.prose .highlight .nv, .prose .highlight .vm {
+  color: #008080;
+}
+.prose .highlight .ow {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .o {
+  color: #000000;
+  font-weight: bold;
+}
+.prose .highlight .w {
+  color: #bbbbbb;
+}
+
 .post-nav-back {
-  display: inline-block;
+  display: block;
+  max-width: var(--post-width);
   margin: 2rem auto 0;
-  max-width: var(--prose-width);
-  padding: 0 1.5rem;
 }
 
 /* Tags archive page */
