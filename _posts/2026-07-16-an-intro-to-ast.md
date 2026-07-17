@@ -21,11 +21,9 @@ from pathlib import Path
 
 PI = 3.14
 
-
 class Calculator:
     def square(self, x: float) -> float:
         return x * x
-
 
 def process(numbers: list[int]) -> list[float]:
     calculator = Calculator()
@@ -43,7 +41,6 @@ def process(numbers: list[int]) -> list[float]:
         print(error)
 
     return results
-
 
 if __name__ == "__main__":
     values = [1, -4, 3]
